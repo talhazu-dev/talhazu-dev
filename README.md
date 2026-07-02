@@ -2,11 +2,6 @@
 
 A passionate **Python Developer** focused on building intelligent web applications, clean backend structures, and conversational AI integrations. I enjoy solving complex logic problems and translating ideas into functional code.
 
-### 🛠️ Tech Stack & Skills
-* **Languages:** Python, C++, SQL
-* **Frameworks & Tools:** Streamlit, Git & GitHub, Object-Oriented Programming (OOP)
-* **Core Areas:** Conversational AI flows, Data Structures & Algorithms (DSA), Relational Databases
-
 ### ⚙️ My GitHub Stats
 <!-- Aap yahan github-readme-stats use kar sakte hain agar chahein -->
 
